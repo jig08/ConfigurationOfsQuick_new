@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfsQuick_new",
+	"classinstvars" : [
+		"project" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfsQuick_new",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
