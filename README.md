@@ -1,0 +1,2 @@
+# ConfigurationOfsQuick_new
+--------------------------------------
